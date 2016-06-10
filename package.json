@@ -1,0 +1,39 @@
+{
+  "name": "cordova-plugin-tapsell",
+  "version": "1.0.0",
+  "description": "Show Tapsell Video Ads",
+  "cordova": {
+    "id": "cordova-plugin-tapsell",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miladesign/cordova-plugin-tapsell.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "ad",
+    "tapsell",
+    "monetisation",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+"devDependencies": {
+    "cordova": ">=3.0.0"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Milad Mohammadi",
+  "license": "tapsell",
+  "bugs": {
+    "url": "https://github.com/miladesign/cordova-plugin-tapsell/issues"
+  },
+  "homepage": "https://github.com/miladesign/cordova-plugin-tapsell#readme"
+}
